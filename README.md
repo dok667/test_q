@@ -8,5 +8,5 @@
 
 [ баг на сайте Vmedia](https://drive.google.com/file/d/1Nfjg1p9ubd1J9zmdTMmO2SriyETKVO7C/view?usp=sharing)
 
-
+[Тест-кейс игры] (https://docs.google.com/spreadsheets/d/1lCi9BtNCovWCEjGSlJQtldZ38G1oNbx4ahuQQXgONro/edit?usp=sharing)
 
