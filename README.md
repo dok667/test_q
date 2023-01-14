@@ -15,4 +15,3 @@
 
 [тест-кейсы] (https://docs.google.com/spreadsheets/d/1mEkHwoOYXR24BCc5YB9zINf4VLr7dldKsylaSfFs644/edit?usp=sharing)
 
-[Нахождение-бага] (https://drive.google.com/file/d/1Nfjg1p9ubd1J9zmdTMmO2SriyETKVO7C/view?usp=share_link)
