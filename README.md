@@ -8,6 +8,11 @@
 
 [ баг на сайте Vmedia](https://drive.google.com/file/d/1Nfjg1p9ubd1J9zmdTMmO2SriyETKVO7C/view?usp=sharing)
 
-[Тест кейс игры] (https://docs.google.com/spreadsheets/d/1lCi9BtNCovWCEjGSlJQtldZ38G1oNbx4ahuQQXgONro/edit?usp=sharing)
+[тест-кейсы-игры] (https://docs.google.com/spreadsheets/d/1lCi9BtNCovWCEjGSlJQtldZ38G1oNbx4ahuQQXgONro/edit?usp=sharing)
 
-[Тест кейс] (https://docs.google.com/spreadsheets/d/1fDKwnr5c8-er_hVJcT0UhxjUExJY3O_E/edit?usp=sharing&ouid=115494095029019405123&rtpof=true&sd=true)
+[Тест-кейс] (https://docs.google.com/spreadsheets/d/1fDKwnr5c8-er_hVJcT0UhxjUExJY3O_E/edit?usp=sharing&ouid=115494095029019405123&rtpof=true&sd=true)
+
+
+[тест-кейсы] (https://docs.google.com/spreadsheets/d/1mEkHwoOYXR24BCc5YB9zINf4VLr7dldKsylaSfFs644/edit?usp=sharing)
+
+[Нахождение-бага] (https://drive.google.com/file/d/1Nfjg1p9ubd1J9zmdTMmO2SriyETKVO7C/view?usp=share_link)
