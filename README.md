@@ -17,3 +17,6 @@
 
 
 [Тест-кейс] (https://docs.google.com/spreadsheets/d/1wq6TOK9fjPodZFqB0IRX0JsBLVO7xAgIDMSJ5ivIDCE/edit?usp=sharing)
+
+
+[Доработка-кейса] (https://docs.google.com/spreadsheets/d/15BL2jPMobwuv6JqIr5rPROPXpOv94ZRC7FszuknEh9I/edit?usp=sharing)
