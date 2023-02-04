@@ -15,3 +15,5 @@
 
 [тест-кейсы] (https://docs.google.com/spreadsheets/d/1mEkHwoOYXR24BCc5YB9zINf4VLr7dldKsylaSfFs644/edit?usp=sharing)
 
+
+[Тест-кейс] (https://docs.google.com/spreadsheets/d/1wq6TOK9fjPodZFqB0IRX0JsBLVO7xAgIDMSJ5ivIDCE/edit?usp=sharing)
