@@ -20,3 +20,6 @@
 
 
 [Доработка-кейса] (https://docs.google.com/spreadsheets/d/15BL2jPMobwuv6JqIr5rPROPXpOv94ZRC7FszuknEh9I/edit?usp=sharing)
+
+
+[ Site test task](https://docs.google.com/spreadsheets/d/10aIfh8Qv-UXn82al6a9oOsULjMqhf2TIHo1bFDfBjRE/edit?usp=sharing)
